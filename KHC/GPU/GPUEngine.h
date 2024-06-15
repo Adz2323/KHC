@@ -1,13 +1,6 @@
 #ifndef GPUENGINE_H
 #define GPUENGINE_H
 
-#include <vector>
-#include <string>
-#include "Int.h"
-#include "Point.h"
-#include "Secp256K1.h"
-#include "Bloom.h"
-
 #define COIN_BTC 0
 #define COIN_ETH 1
 

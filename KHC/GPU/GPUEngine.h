@@ -5,7 +5,7 @@
 #include <string>
 #include "../Int.h"
 #include "../Point.h"
-#include "../Secp256K1.h"
+#include "../SECP256k1.h"
 #include "../Bloom.h"
 
 #define COIN_BTC 0
